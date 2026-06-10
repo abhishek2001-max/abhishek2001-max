@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Abhi 👋
 
-<!--
-**abhishek2001-max/abhishek2001-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI & Data Science Graduate | 🤖 Automation Engineer | 📍 Bengaluru, India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+I build intelligent automation workflows that combine AI/LLM capabilities 
+with tools like n8n and UiPath — helping businesses save time and scale smarter.
+
+---
+
+## 🛠️ Skills
+- **Automation:** n8n, UiPath
+- **AI/LLM:** Google Gemini, OpenAI, Prompt Engineering
+- **Data:** Python, Google Sheets, Data Science
+- **Tools:** GitHub, Gmail API, Webhooks
+
+---
+
+## 📂 Featured Projects
+- 🤖 [AI-Powered Contact Form Responder](https://github.com/abhishek2001-max/n8n-automation-portfolio) — Auto-replies to form submissions using Gemini AI
+
+---
+
+## 📈 Currently
+- Building AI-powered automation workflows
+- Pursuing UiPath Automation Developer Associate certification
+- Open to freelance automation projects
+
+---
+
+## 📫 Hire Me
+Open for freelance work on **Upwork**
